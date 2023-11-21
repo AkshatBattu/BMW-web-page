@@ -1,0 +1,109 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    overflow: hidden;
+    height: 100vh;
+    background: url(imp.jpg.jpg) no-repeat;
+    background-position: center;
+  background-size: cover;
+
+  }
+.flx{
+    display: flex;
+    font-size: 15px;
+    margin-left: 140px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.flx h1{
+    color: white;
+    margin: 14px;
+    text-decoration: none;
+    font-weight: 100;
+    font-size: 20px;
+}
+.ser{
+    margin-left: 90%;
+    margin-top: -4%;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+.con{
+    color: white;
+    margin-top: 6%;
+    margin-left: 4% ;
+    font-size: 20px;
+    font-weight: 100;
+   
+}
+.con h1{
+    
+    font-weight: 100;
+    margin-left: 4%;
+    font-size: 50px;
+  
+}
+   
+
+.con h2{
+    font-weight: 100;
+    margin-left: 4%;
+    font-size: 28px;
+    margin-top: -2%;
+}
+.btn1{
+    padding: 19px;
+   
+    background: rgb(0, 140, 255);
+    font-size: 17px;
+    color: aliceblue;
+    cursor: pointer;
+    width: 28%;
+    margin-left: 9%;
+    border: none;
+    margin-top: 1%;
+    cursor: pointer;
+}
+.btn2{
+    padding: 19px;
+    background:#666
+    ;
+    font-size: 17px;
+    color: aliceblue;
+    cursor: pointer;
+    width: 28%;
+    margin-left: 9%;
+    border: none;
+    margin-top: 1%;
+    cursor: pointer;
+}
+.spec{
+    display: flex;
+    color: white;
+    
+}
+.spec h3{
+    font-weight: 100;
+    margin-left: 60px;
+    font-size: 30px;
+    margin-top: 70px;
+
+}
+.spec h4{
+    font-weight: 100;
+    margin-left: 130px;
+    font-size: 30px;
+    margin-top: 70px;
+
+    
+}
+.spec h5{
+    font-weight: 100;
+    margin-left: 130px;
+    font-size: 30px;
+    margin-top: 70px;
+
+    
+}
